@@ -17,6 +17,7 @@
 - ст. преп., Фадеев В.О.
 
 [Проект Dragon Picker](https://github.com/S1GARETA/Dragon_Picker)
+
 [Шаблон на Яндекс Игры](https://yandex.ru/games/app/197772?draft=true&lang=ru)
 
 ## Цель работы
